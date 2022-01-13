@@ -35,7 +35,7 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)
  -->
  
-<details>
+<details open="">
   <summary><b>GitHub Stats</b></summary>
   <br>
     <p align="">
