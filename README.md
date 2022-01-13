@@ -17,13 +17,10 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
+<details open>
 <summary>Stats</summary>
 <br>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights)
-<br>
-<br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 -----
