@@ -5,13 +5,13 @@
 <a href="mailto:ronancodes@gmail.com"><img src="https://img.shields.io/badge/ronancodes@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <!-- Or [![Gmail](https://img.shields.io/badge/ronancodes@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ronancodes@gmail.com) -->
 
-Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
+<!-- Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
 
 - 🔭 I’m currently updating my project [Pic'd Up](https://github.com/Ronan-Codes/picd-up)
 - 🌱 I’m looking to learn **Java** next
-- 📁 Check out my work and 💌 contact info [here!](https://ronan-codes.github.io/react-portfolio/#)
+- 📁 Check out my work and 💌 contact info [here!](https://ronan-codes.github.io/react-portfolio/#) -->
 
-<details>
+<details open="">
   <summary><b>&nbsp;About Me</b></summary>
   <br>
     <p align="">
@@ -40,7 +40,7 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)
  -->
 
-<details open="">
+<details>
   <summary><b>&nbsp;GitHub Stats</b></summary>
   <br>
     <p align="">
