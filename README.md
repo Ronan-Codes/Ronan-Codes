@@ -43,6 +43,5 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
     </p>
 </details>
 
------
-
-Last Edited on: 01/12/2022
+<!-- -----
+Last Edited on: 01/12/2022 -->
