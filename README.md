@@ -29,11 +29,13 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
         Insert skills logos here... 
     </p>
 </details>
+
 <!-- ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)
  -->
+ 
 <details>
   <summary><b>GitHub Stats</b></summary>
   <br>
