@@ -18,10 +18,10 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-<summary>Dropdown Heading</summary>
+<summary>Stats</summary>
 <br>
-Choice 1
-<br> Choice 2
+ <font size="6"> This is my text number 6</font>
+<br> <font size="1"> This is my text number 6</font>
 <br> Choice 2
 <br>
 </details>
