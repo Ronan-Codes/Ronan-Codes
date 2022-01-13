@@ -13,6 +13,7 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 
 <details open="">
   <summary><b>About Me</b></summary>
+  <br>
     <ul>
       <li>🎓 UCF Full-Stack Web Development Program && UF BS in Psychology </li>
       <li>🔭 I’m currently updating my project <a href="https://github.com/Ronan-Codes/picd-up" target="_blank">Pic'd Up</a></li>
