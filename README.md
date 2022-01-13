@@ -5,25 +5,26 @@
 <a href="mailto:ronancodes@gmail.com"><img src="https://img.shields.io/badge/ronancodes@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <!-- Or [![Gmail](https://img.shields.io/badge/ronancodes@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ronancodes@gmail.com) -->
 
-## About Me
+<!-- ## About Me
 Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
 
 - 🔭 I’m currently updating my project [Pic'd Up](https://github.com/Ronan-Codes/picd-up)
 - 🌱 I’m looking to learn **Java** next
-- 📁 Check out my work and 💌 contact info [here!](https://ronan-codes.github.io/react-portfolio/#)
+- 📁 Check out my work and 💌 contact info [here!](https://ronan-codes.github.io/react-portfolio/#) -->
 
-<!-- <details open="">
+<details open="">
   <summary><b>&nbsp;About Me</b></summary>
   <br>
-    <p align="">
+<!--     <p align="">
         Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
-    </p>
-    <ul align="">
+    </p> -->
+    <ul align="center">
+      <li>🎓 UCF Full-Stack Web Development Program && UF BS in Psychology </li>
       <li>🔭 I’m currently updating my project <a href="https://github.com/Ronan-Codes/picd-up" target="_blank">Pic'd Up</a></li>
       <li>🌱 I’m looking to learn <b>Java</b> next</li>
-      <li>📁 Check out my work and 💌 contact info <a href="https://ronan-codes.github.io/react-portfolio/#" target="_blank">here!</a></li>
+      <li><a href="https://ronan-codes.github.io/react-portfolio/#" target="_blank">📁</a></li> Check out my work <a href="https://ronan-codes.github.io/react-           portfolio/#" target="_blank">here!</a></li>
     </ul> 
-</details> -->
+</details>
 
 <!-- ### Skills -->
 
