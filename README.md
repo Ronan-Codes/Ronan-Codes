@@ -23,12 +23,12 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
     </ul> 
 </details>
 
-<details>
+<!-- <details>
   <summary><b>Skills</b></summary>
     <p align="">
-        Insert skills logos here... 
+        Insert skills logos here... One sec, taking a break
     </p>
-</details>
+</details> -->
 
 <!-- ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights)
