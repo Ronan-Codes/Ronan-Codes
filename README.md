@@ -1,11 +1,11 @@
 <!-- ## [Ronan Galvez](https://ronan-codes.github.io/react-portfolio/#) -->
-<h2> 𝐇𝐞𝐥𝐥𝐨 EMPLOYERS <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1> 𝐇𝐞𝐥𝐥𝐨 EMPLOYERS <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <!-- [![LinkedIn Badge](https://img.shields.io/badge/-Ronan%20Galvez-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/ronan-galvez-08aaa81a8/) -->
 <a href="https://www.linkedin.com/in/ronan-galvez-08aaa81a8/" target="_blank"><img src="https://img.shields.io/badge/-Ronan%20Galvez-blue?style=flat&logo=LinkedIn"/></a>
 <a href="mailto:ronancodes@gmail.com"><img src="https://img.shields.io/badge/ronancodes@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <!-- Or [![Gmail](https://img.shields.io/badge/ronancodes@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ronancodes@gmail.com) -->
 
-### About Me
+## About Me
 <hr>
 Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
 
