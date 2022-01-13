@@ -1,16 +1,13 @@
-### Hi there 👋
+### [Ronan Galvez!](https://ronan-codes.github.io/react-portfolio/#)
+![](https://komarev.com/ghpvc/?username=Ronan-Codes=blueviolet)
+https://github.com/Ronan-Codes?tab=repositories
 
-<!--
-**Ronan-Codes/Ronan-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently updating my project [Pic'd Up](https://github.com/Ronan-Codes/picd-up)
+- 🌱 I’m looking to learn **Java** next
+- 📁 Check out my work and 💌 contact info [here!](https://ronan-codes.github.io/react-portfolio/#)
+
+
+
