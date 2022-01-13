@@ -13,10 +13,10 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 - 📁 Check out my work and 💌 contact info [here!](https://ronan-codes.github.io/react-portfolio/#) -->
 
 <details open="">
-  <summary><b>&nbsp;About Me</b></summary>
+  <summary><b>About Me</b></summary>
   <br>
     <ul>
-      &nbsp;&nbsp;&nbsp;<li>🎓 UCF Full-Stack Web Development Program && UF BS in Psychology </li>
+      <li>🎓 UCF Full-Stack Web Development Program && UF BS in Psychology </li>
       <li>🔭 I’m currently updating my project <a href="https://github.com/Ronan-Codes/picd-up" target="_blank">Pic'd Up</a></li>
       <li>🌱 I’m looking to learn <b>Java</b> next</li>
       <li><a href="https://ronan-codes.github.io/react-portfolio/#" target="_blank">📁</a></li> Check out my work <a href="https://ronan-codes.github.io/react-           portfolio/#" target="_blank">here!</a></li>
@@ -26,7 +26,7 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 <!-- ### Skills -->
 
 <details>
-  <summary><b>&nbsp;Skills</b></summary>
+  <summary><b>Skills</b></summary>
   <br>
     <p align="">
         Insert skills logos here... 
@@ -40,7 +40,7 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
  -->
 
 <details>
-  <summary><b>&nbsp;GitHub Stats</b></summary>
+  <summary><b>GitHub Stats</b></summary>
   <br>
     <p align="">
         <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights" />
