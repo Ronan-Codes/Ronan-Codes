@@ -13,16 +13,14 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 ### Skills
 
 ### Stats
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<details>
-  <summary><h3>Stats</h3></summary>
-<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+
+<details open>
+  <h3><summary>Want to ruin the surprise?</summary></h3>
+<br>
+Well, you asked for it!
 </details>
 
 -----
