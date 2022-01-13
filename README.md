@@ -16,12 +16,10 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
   <summary><b>&nbsp;About Me</b></summary>
   <br>
     <ul>
-<!--       <div align="center"> -->
-      <li style="margin-left: 500px">🎓 UCF Full-Stack Web Development Program && UF BS in Psychology </li>
+      &nbsp;&nbsp;&nbsp;<li>🎓 UCF Full-Stack Web Development Program && UF BS in Psychology </li>
       <li>🔭 I’m currently updating my project <a href="https://github.com/Ronan-Codes/picd-up" target="_blank">Pic'd Up</a></li>
       <li>🌱 I’m looking to learn <b>Java</b> next</li>
       <li><a href="https://ronan-codes.github.io/react-portfolio/#" target="_blank">📁</a></li> Check out my work <a href="https://ronan-codes.github.io/react-           portfolio/#" target="_blank">here!</a></li>
-<!--       <div> -->
     </ul> 
 </details>
 
