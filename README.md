@@ -26,6 +26,9 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
     </p>
 </details>
 
+<a href="mailto:ronancodes@gmail.com"><img src="https://img.shields.io/badge/ronancodes@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/ronancodes@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ronancodes@gmail.com)
+
 -----
 
 Last Edited on: 01/12/2022
