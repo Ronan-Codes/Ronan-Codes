@@ -6,7 +6,6 @@
 <!-- Or [![Gmail](https://img.shields.io/badge/ronancodes@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ronancodes@gmail.com) -->
 
 ## About Me
-<hr>
 Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
 
 - 🔭 I’m currently updating my project [Pic'd Up](https://github.com/Ronan-Codes/picd-up)
