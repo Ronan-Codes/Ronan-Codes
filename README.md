@@ -12,7 +12,7 @@
 - 📁 Check out my work and 💌 contact info [here!](https://ronan-codes.github.io/react-portfolio/#) -->
 
 <details open="">
-  <summary><b>&nbsp;About Me</b></summary>
+  <summary><h3><b>&nbsp;About Me</b></h3></summary>
   <br>
     <p align="">
         Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
