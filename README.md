@@ -6,7 +6,6 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 - 🌱 I’m looking to learn **Java** next
 - 📁 Check out my work and 💌 contact info [here!](https://ronan-codes.github.io/react-portfolio/#)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronan-codes)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights)
 
 
