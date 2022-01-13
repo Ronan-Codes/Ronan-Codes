@@ -1,4 +1,4 @@
-### [Ronan Galvez!](https://ronan-codes.github.io/react-portfolio/#)
+## [Ronan Galvez!](https://ronan-codes.github.io/react-portfolio/#)
 
 Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
 
