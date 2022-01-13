@@ -8,6 +8,9 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
