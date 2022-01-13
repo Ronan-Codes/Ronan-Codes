@@ -17,8 +17,8 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
-<details open>
-  <h3><summary>Want to ruin the surprise?</summary></h3>
+<details>
+  <summary>Want to ruin the surprise?</summary>
 <br>
 Well, you asked for it!
 </details>
