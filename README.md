@@ -20,9 +20,9 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 <details>
 <summary>Stats</summary>
 <br>
- <font size="6"> This is my text number 6</font>
-<br> <font size="1"> This is my text number 6</font>
-<br> Choice 2
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights)
+<br>
+<br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 </details>
 
