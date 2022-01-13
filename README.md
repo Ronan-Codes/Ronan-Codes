@@ -1,7 +1,8 @@
 <!-- ## [Ronan Galvez](https://ronan-codes.github.io/react-portfolio/#) -->
 <h2> 𝐇𝐞𝐥𝐥𝐨 EMPLOYERS <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-[![LinkedIn Badge](https://img.shields.io/badge/-Ronan%20Galvez-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/ronan-galvez-08aaa81a8/)
-[![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/pushpneet-singh-155a9015a/) 
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/-Ronan%20Galvez-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/ronan-galvez-08aaa81a8/) -->
+<a href=”https://www.linkedin.com/in/ronan-galvez-08aaa81a8/"><img src=”https://img.shields.io/badge/-Ronan%20Galvez-blue?style=flat&logo=LinkedIn"></a>
+
 
 Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
 
