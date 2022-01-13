@@ -15,18 +15,8 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)
-
-<details open>
-<summary>Stats</summary>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
------
-
-Last Edited on: 01/12/2022
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights) -->
 
 <details open="">
   <summary><b>&nbsp;GitHub Stats</b></summary>
@@ -35,3 +25,7 @@ Last Edited on: 01/12/2022
         <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights" />
     </p>
 </details>
+
+-----
+
+Last Edited on: 01/12/2022
