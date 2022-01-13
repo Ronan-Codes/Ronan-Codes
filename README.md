@@ -11,10 +11,22 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 - 🌱 I’m looking to learn **Java** next
 - 📁 Check out my work and 💌 contact info [here!](https://ronan-codes.github.io/react-portfolio/#)
 
+<details>
+  <summary><b>&nbsp;About Me</b></summary>
+  <br>
+    <p align="">
+        Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
+    </p>
+    - 🔭 I’m currently updating my project [Pic'd Up](https://github.com/Ronan-Codes/picd-up)
+- 🌱 I’m looking to learn **Java** next
+- 📁 Check out my work and 💌 contact info [here!](https://ronan-codes.github.io/react-portfolio/#)
+    
+</details>
+
 <!-- ### Skills -->
 
 <details>
-  <summary><b>&nbsp;GitHub Stats</b></summary>
+  <summary><b>&nbsp;Skills</b></summary>
   <br>
     <p align="">
         Insert skills logos here... 
