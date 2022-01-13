@@ -6,8 +6,6 @@
 
 <a href="#" onclick='window.open("https://www.linkedin.com/in/ronan-galvez-08aaa81a8/");return false;'><img src="https://img.shields.io/badge/-Ronan%20Galvez-blue?style=flat&logo=LinkedIn"/></a>
 
-[Hello, world!](http://example.com/){target="_blank"}
-
 Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
 
 - 🔭 I’m currently updating my project [Pic'd Up](https://github.com/Ronan-Codes/picd-up)
