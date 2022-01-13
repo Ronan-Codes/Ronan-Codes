@@ -1,4 +1,5 @@
-## [Ronan Galvez](https://ronan-codes.github.io/react-portfolio/#)
+<!-- ## [Ronan Galvez](https://ronan-codes.github.io/react-portfolio/#) -->
+<h2> 𝐇𝐞𝐥𝐥𝐨 EMPLOYERS<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
 
