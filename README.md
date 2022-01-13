@@ -32,6 +32,6 @@ Last Edited on: 01/12/2022
   <summary><b>&nbsp;GitHub Stats</b></summary>
   <br>
     <p align="">
-        <img height="142px" src="https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights" /> <img height="142px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)" />
+        <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights" />
     </p>
 </details>
