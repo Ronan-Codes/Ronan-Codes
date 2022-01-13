@@ -13,7 +13,6 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 
 <details open="">
   <summary><b>About Me</b></summary>
-  <br>
     <ul>
       <li>🎓 UCF Full-Stack Web Development Program && UF BS in Psychology </li>
       <li>🔭 I’m currently updating my project <a href="https://github.com/Ronan-Codes/picd-up" target="_blank">Pic'd Up</a></li>
@@ -24,7 +23,6 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 
 <details>
   <summary><b>Skills</b></summary>
-  <br>
     <p align="">
         Insert skills logos here... 
     </p>
@@ -38,7 +36,6 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
  
 <details>
   <summary><b>GitHub Stats</b></summary>
-  <br>
     <p align="">
         <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights" />
     </p>
