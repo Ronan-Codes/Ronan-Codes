@@ -23,12 +23,12 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
     </ul> 
 </details>
 
-<!-- <details>
-  <summary><b>Skills</b></summary>
-    <p align="">
-        Insert skills logos here... One sec, taking a break
-    </p>
-</details> -->
+<details>
+  <summary><b>Skills</b></summary><br>
+   
+    JavaScript | HTML5 | CSS | MySQL | Mongoose | GraphQL | Express | MongoDB | SQL | React.js | Node.js | Redux | Git/GitHub 
+  
+</details>
 
 <!-- ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights)
@@ -36,7 +36,7 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)
  -->
  
-<details >
+<details open="">
   <summary><b>GitHub Stats</b></summary>
   <br>
     <p align="">
