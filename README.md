@@ -7,7 +7,6 @@
 
 <!-- ## About Me
 Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
-
 - 🔭 I’m currently updating my project [Pic'd Up](https://github.com/Ronan-Codes/picd-up)
 - 🌱 I’m looking to learn **Java** next
 - 📁 Check out my work and 💌 contact info [here!](https://ronan-codes.github.io/react-portfolio/#) -->
@@ -22,25 +21,19 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
     </ul> 
 </details>
 
-<!-- ### Skills -->
-
 <details>
   <summary><b>Skills</b></summary>
-  <br>
     <p align="">
         Insert skills logos here... 
     </p>
 </details>
-
 <!-- ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)](https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights)
  -->
-
 <details>
   <summary><b>GitHub Stats</b></summary>
-  <br>
     <p align="">
         <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ronan-codes&show_icons=true&theme=city_lights" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronan-codes&layout=compact&theme=city_lights" />
     </p>
@@ -49,7 +42,3 @@ Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UC
 -----
 
 Last Edited on: 01/12/2022
-
-<!--     <p align="">
-        Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
-    </p> -->
