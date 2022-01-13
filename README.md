@@ -3,6 +3,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=gray&right_color=green)
 
+![visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ronan-Codes/&title=Profile%20Views)
+
 
 Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
 
