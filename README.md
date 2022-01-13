@@ -2,6 +2,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 EMPLOYERS <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 [![Linkedin Badge](https://img.shields.io/badge/-Pushpneet_Singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronan-galvez-08aaa81a8/)](https://www.linkedin.com/in/ronan-galvez-08aaa81a8/) 
 
+![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge]({BadgeURLHere})
+
 Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
 
 - 🔭 I’m currently updating my project [Pic'd Up](https://github.com/Ronan-Codes/picd-up)
