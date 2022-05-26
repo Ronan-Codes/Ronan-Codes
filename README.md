@@ -1,6 +1,6 @@
 <!-- ## [Ronan Galvez](https://ronan-codes.github.io/react-portfolio/#) -->
 <h2> 𝐇𝐞𝐥𝐥𝐨 EMPLOYERS <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<a href="mailto:rgalvez.antra@gmail.com"><img src="https://img.shields.io/badge/ronancodes@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:rgalvez.antra@gmail.com"><img src="https://img.shields.io/badge/rgalvez.antra@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 
 <!-- ## About Me
 Hi, I'm Ronan, a passionate fullStack webDeveloper. I recently graduated from UCF Coding Bootcamp and I'm ready to keep developing this craft!
